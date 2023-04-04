@@ -1,0 +1,2 @@
+# opencv-
+基于opencv的人脸识别。内置两个函数，一个识别图像人脸facePictureDetection，另一个识别视频人脸faceVideoDetection
